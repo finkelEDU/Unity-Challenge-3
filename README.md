@@ -1,2 +1,6 @@
 # Unity Challenge 3
- For college
+By B00099936, Fintan Kelly.
+
+All challenges and random challenges completed.
+
+I added my own code to make the balloon a random colour.
